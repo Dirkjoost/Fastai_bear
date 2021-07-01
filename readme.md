@@ -2,4 +2,4 @@
 
 we're using some machine learning to recognize the bears on pictures
 
-hi
+hi there
